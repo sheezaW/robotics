@@ -1,7 +1,7 @@
 # robotics
 simple projects made using STM32 and CubeMX 
 
-robotics-arm: 3 potentiometers that control a stepper motor and 2 servo motors to give an arm 3dof.
+robotics-arm: 3 potentiometers that control a stepper motor and 2 servo motors to give an arm 3dof. final report includes the ss and explanation of code.
 
 interrupt: system interrupts after exact time or using a button.
 
